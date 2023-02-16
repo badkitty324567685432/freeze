@@ -1,0 +1,953 @@
+Mono path[0] = 'D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'D:/Program Files (x86)/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 Ti (ID=0x1c8c)
+    Vendor:   
+    VRAM:     4017 MB
+    Driver:   31.0.15.2849
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.113 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.861600 ms
+Command line arguments: -savedatafolder=C:\Users\kcook\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+RimWorld 1.4.3641 rev649
+Save data folder overridden to C:\Users\kcook\AppData\LocalLow\Ludeon Studios\RimWorld by Ludeon Studios
+Mod  is missing supported versions list in About.xml! (example: <supportedVersions><li>1.0</li></supportedVersions>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Mod 1507748539 is missing packageId in About.xml! (example: <packageId>AuthorName.ModName.Specific</packageId>) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A87FBE040.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A5A8B08D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A880FB010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8812D620.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88227440.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A87F87540.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8824FE60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8828A8A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A882900B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A882942C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A882972D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A87FA3150.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88298AE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A880DFA20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A882B3710.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A882B4F20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A882C5F50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A5A8B1CE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A882CBB70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A882CDD80.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A882D7390.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A882E47C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A880E3A40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A883D0BE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A884AF180.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A884BDD90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A884CFDA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A884DC1B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A884E33D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A884E83E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A884EDDF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A884F2000.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8851AA20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8854A630.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8854C040.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8854F850.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88590010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A885AEA30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A885B8850.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A885B9E60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A885BB470.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A885E6CA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A886008D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8872C010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8872EC20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8873BA30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88772250.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88868870.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8898B3B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A889943C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88728BC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8899DBE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A889A1BF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A889ACC10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A889B2C20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A889F4010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A00A30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A19C60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A3E190.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A4D1A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A5B1C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A5D3D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A643E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A6E3F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A7C410.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A82420.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A85630.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A8DA50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A91A60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A9AA70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88A9FA80.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88AB9A90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88AC34B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88AD0ED0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88AD3EE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A877FC890.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88ADF6F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88B1BD20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88B2D540.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A878068D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88B4E270.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88B4F880.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A5A8B30F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88B79FC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88BF6010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88BF9C20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A899C0080.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88CEF440.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A899D3490.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A899EF4B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A899F22C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88CFA450.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A899FB2E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A899FD6F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89A0E910.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A991040.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89A13D20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89A1B730.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89A3BD40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89A3F750.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89A54D70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89A64D90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89A9AFC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89A9F7D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89B853F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89B87800.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89B92E10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A5A8ACCA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88CFCE60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A88BD2A60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89BB6660.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89CD4E80.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89CDA490.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89CE6EA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89D5D020.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89DC4450.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89DF0A80.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89E050A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89E076B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89E332D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89E404E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89E4D4F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89E4F100.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89E5C320.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89E63730.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89E67740.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89E7C760.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89F71D90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89FAFBC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89D3B850.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89FE11D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89FE6FF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A89FE8C00.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A012C40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A014450.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A015C60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A017470.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A034080.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A03ECA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A0424B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A05BAD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A159CF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A23F910.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A39B820.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A3A3E40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A3A6C50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A3BA870.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A3BD680.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A276780.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A3C9CA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8732C830.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8732D840.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A3D5AB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A3DA4D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A3DB6E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A410100.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A4FA730.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A5FA830.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A6E5E60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A8BDCE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A877F5060.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A8D2320.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A8D3F30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A8DF940.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A90B950.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A911B60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A920F80.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A926B90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A92A1A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A9371C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A93CFE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A945810.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A95BA30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8AEC10C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A978850.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A97DC60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8AFA66E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A878018B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A982C70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A985080.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A986A90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8AFBB700.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8AFC4510.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8AFC7F20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A98CAA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8AFD4950.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A87329800.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B0E2390.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B0F4BB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B10DBD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B14B7E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B1565F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B170210.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B1BAA30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B1C1660.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B1C5670.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B1C7280.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B1CCAB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B1CDCC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B1E14E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B1E3900.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B1E6B10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8A2AE940.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B22FB60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B232170.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B235380.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B23BD90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B23DBA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B24F9C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B25DDE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B2CBF20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B2F1820.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B306010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B307820.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B308E30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B316C60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B31D470.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B323890.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B3298A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B33F2C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B349AD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B3540F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B357F10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B371130.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B45D360.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B465370.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B46F580.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B472FA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B47D7B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B47EFD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B480BE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B4843F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B2C9F10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B486200.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B487810.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B49BC30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B4FCA70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B508A90.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B5F28B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B5F86D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B602CE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B657530.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B686360.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B690780.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B694190.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B6963A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B698DB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B69FFC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B6C7FD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B6CB3E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B6E4C00.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B6E6E10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B708C30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B70CE40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B711250.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B763010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B76D820.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B774050.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B86CC70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B873C80.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B88B2A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B8906B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B899ED0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B8AEEF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A873338A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B8B1300.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B8D0D20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8733F960.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B8E1D40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B8E5D70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B9EB7C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8B73FFA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BA29FF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BADD010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BAE9420.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BBDCC40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BBE2880.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BBF0090.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BC2A8C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BD23890.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BC32ED0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BD54EC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BC35EE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BE0E0E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BE15AF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BE49110.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BE4E320.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BE89350.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BE8D160.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BE93B70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BC384F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BE9C3A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BEA03B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BEAE5D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BEB5BE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BEB85F0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8BF6C010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C027E40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C07C010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C07EE20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C080430.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C083640.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C0CB850.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C0D5A70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C1190A0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C11EEB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C126AC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C128ED0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C1330E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C046D00.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C157900.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C182320.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C1C6620.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C1CB230.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C1DD440.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C20B650.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C213C60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C23C680.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C292CB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C29DAC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C2A16D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C2F9D10.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C31BB20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C337740.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C36DF50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C374B60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C37E770.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C3A0590.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C3A2BA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C3A43B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C3B0DC0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C3B4DD0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C3BFFE0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C42F010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C45CE20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C473230.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C4A6040.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C4B6C50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C4B7E60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C4BA470.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C4BB680.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C4BE490.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C4D12B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C4EDED0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C4F10E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C51FB00.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C534110.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C605B30.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C610140.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C6F7960.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C72A790.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C73DDA0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C7457B0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C74C9C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C74E5D0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C7519E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C792600.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C795210.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C796E20.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C799030.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C79F840.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C8CF820.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C904A40.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A87340970.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C907A50.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C912470.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C918C80.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C928090.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C937EB0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C9394C0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C941120.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C9510E0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C955AF0.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8C957900.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8CC08010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8CE31080.dll
+[HugsLib] version 10.0.1
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8CC51130.dll
+[HugsLib] early-initializing AllowTool
+[1.3]Graphics Setter - Loaded
+<color=#34eb92>[Simple Personalities]</color> Hello, world!
+<color=#34eb92>[Simple Personalities M2]</color> Module 2 reporting for duty!
+PATCHALL
+[VanillaAchievementsExpanded] version 1.4.8315
+RimThemes NX
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A87C0C630.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8F24E030.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A90540080.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8F0AB010.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8F39F040.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8F0CF220.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A8F14D020.dll
+<color=magenta>[Disco]</color> Hello, world!
+<color=magenta>[Disco]</color> Patched 4 methods:
+Boolean AcceptableGameConditionsToStartGathering(Verse.Map, RimWorld.GatheringDef),
+Single get_CurVolume(),
+Single BodyAngle(),
+Void Init()
+<color=magenta>[Disco]</color> Created Unity hook game object.
+DubsBreakMod 1.0.1350
+DubsMintMenus v1.3.995
+Dubs Skylight 1.5.2110
+RimSaves NX
+[Interaction Bubbles v2.5] Initialized
+Ugh You Got Me: Trying to patch MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Patched MentalState_SocialFighting.ShouldStop.get.
+Ugh You Got Me: Trying to patch JobGiver_SocialFighting.TryGiveJob
+Ugh You Got Me: Patched JobGiver_SocialFighting.TryGiveJob.
+Loaded What's That Mod.
+WORSHIP & SACRIFICE: Running...
+Tried to use an uninitialized DefOf of type TimeAssignmentDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Yayo's Animation] - HumanoidAlienRaces detected
+[Yayo's Animation] - DualWield detected
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A90C2A020.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A90C42A60.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A90C4DA70.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A90C5A880.dll
+Fallback handler could not load library D:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-0000027A90C63E90.dll
+GAGARIN: <color=green>StartUpStarted called!</color>
+GAGARIN: <color=green>Cache found</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+b.3641:2/15/2023 12:00:00 AM:1.4.3641 rev649
+b.3641:2/15/2023 12:00:00 AM:1.4.3641 rev649
+b.3641:2/15/2023 12:00:00 AM:1.4.3641 rev649
+b.3641:2/15/2023 12:00:00 AM:1.4.3641 rev649
+ReGrowth: Core 3.3rev1
+Tried to use an uninitialized DefOf of type KeyBindingDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraPlus.KeyBindingDef_KeyDownEvent_Patch.CleanupAtEndOfFrame () [0x0000d] in <514395d7501d4deabd3d567a7f92fc20>:0 
+  at CameraPlus.Root_OnGUI_Patch.Postfix () [0x00000] in <514395d7501d4deabd3d567a7f92fc20>:0 
+  at (wrapper dynamic-method) Verse.Root.Verse.Root.OnGUI_Patch2(Verse.Root)
+ 
+(Filename: <514395d7501d4deabd3d567a7f92fc20> Line: 0)
+
+NullReferenceException: Object reference not set to an instance of an object
+  at CameraPlus.KeyBindingDef_KeyDownEvent_Patch.CleanupAtEndOfFrame () [0x0000d] in <514395d7501d4deabd3d567a7f92fc20>:0 
+  at CameraPlus.Root_OnGUI_Patch.Postfix () [0x00000] in <514395d7501d4deabd3d567a7f92fc20>:0 
+  at (wrapper dynamic-method) Verse.Root.Verse.Root.OnGUI_Patch2(Verse.Root)
+ 
+(Filename: <514395d7501d4deabd3d567a7f92fc20> Line: 0)
+
+GAGARIN: <color=white>LoadModXML_Profiler</color> took <color=red>99.644</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: CombineIntoUnifiedXML has <color=red>Context.IsUsingCache=True</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Loadeding XmlDocument</color> took <color=red>2.22383 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=green>Loaded from cache!</color> Loading cache took <color=red>4 seconds</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>CombineIntoUnifiedXML_Profiler</color> took <color=red>4.338</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>TKeySystem.Parse</color> took <color=red>0.004</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ApplyPatches_Profiler</color> took <color=red>0.189</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>XmlInheritance.Resolve</color> took <color=red>0.003</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: NormalSandDryGravel.
+
+Whole XML:
+
+<BiomeDef><defName>BorealForest</defName><label>boreal forest</label><description>Forests of coniferous trees. Despite the harsh winters, boreal forests sustain a diverse population of small and large animals, and have warm summers.</description><workerClass>BiomeWorker_BorealForest</workerClass><allowFarmingCamps>false</allowFarmingCamps><animalDensity>2.8</animalDensity><plantDensity>1.0</plantDensity><settlementSelectionWeight>0.9</settlementSelectionWeight><movementDifficulty>1</movementDifficulty><forageability>0.75</forageability><foragedFood>RawBerries</foragedFood><wildPlantRegrowDays>25</wildPlantRegrowDays><texture>World/Biomes/BorealForest</texture><soundsAmbient><li>Ambient_NightInsects_Standard</li></soundsAmbient><diseaseMtbDays>60</diseaseMtbDays><diseases><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_GutWorms</diseaseInc><commonality>50</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_MuscleParasites</diseaseInc><commonality>50</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>100</commonality></li></diseases><terrainsByFertility><li><terrain>NormalSoil</terrain><min>-999</min><max>0.83</max></li><li><terrain>NormalFertileSoil</terrain><min>0.83</min><max>0.94</max></li><li><terrain>NormalRichSoil</terrain><min>0.94</min><max>999</max></li></terrainsByFertility><terrainPatchMakers><li><perlinFrequency>0.035</perlinFrequency><thresholds><li><terrain>NormalBarrenSoil</terrain><min>0.70</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.015</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.72</min><max>0.76</max></li><li><terrain>WaterShallow</terrain><min>0.76</min><max>0.96</max></li><li><terrain>WaterChestDeep</terrain><min>0.96</min><max>1.04</max></li><li><terrain>WaterDeep</terrain><min>1.04</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.020</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.67</min><max>0.78</max></li><li><terrain>WetFertileSoil</terrain><min>0.78</min><max>0.86</max></li><li><terrain>FloodedFertileSoil</terrain><min>0.86</min><max>999</max></li></thresholds></li></terrainPatchMakers><baseWeatherCommonalities><Clear>18</Clear><Fog>1</Fog><Rain>2</Rain><DryThunderstorm>1</DryThunderstorm><RainyThunderstorm>1</RainyThunderstorm><FoggyRain>1</FoggyRain><SnowGentle>4</SnowGentle><SnowHard>4</SnowHard><RG_Drizzle>2</RG_Drizzle><RG_FoggySnow>2</RG_FoggySnow><RG_Overcast>6</RG_Overcast><RG_Windy>8</RG_Windy><RG_Blizzard>0.5</RG_Blizzard></baseWeatherCommonalities><wildPlants><Plant_Grass>10</Plant_Grass><Plant_TallGrass>2.5</Plant_TallGrass><Plant_Brambles>2</Plant_Brambles><Plant_Moss>4</Plant_Moss><Plant_Bush>1.2</Plant_Bush><Plant_TreeBirch>0.4</Plant_TreeBirch><Plant_TreePine>1.4</Plant_TreePine><Plant_Berry>0.06</Plant_Berry><RG_Plant_Raspberry>0.06</RG_Plant_Raspberry><Plant_HealrootWild>0.05</Plant_HealrootWild><Plant_Ripthorn MayRequire="Ludeon.RimWorld.Biotech">4</Plant_Ripthorn><Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">10</Plant_GrayGrass><Plant_TreeGrayPine MayRequire="Ludeon.RimWorld.Biotech">4</Plant_TreeGrayPine><VCE_CherryTree>0.01</VCE_CherryTree><VCE_BearBerryBush>0.01</VCE_BearBerryBush></wildPlants><wildAnimals><Yak>0.12</Yak><Horse>0.15</Horse><Squirrel>1</Squirrel><Hare>1</Hare><Rat>1</Rat><Elk>0.5</Elk><Caribou>0.5</Caribou><Muffalo>0.5</Muffalo><WildBoar>0.5</WildBoar><Ibex>0.5</Ibex><Raccoon>0.5</Raccoon><Turkey>0.5</Turkey><Deer>0.5</Deer><Megasloth>0.1</Megasloth><Fox_Red>0.07</Fox_Red><Fox_Arctic>0.07</Fox_Arctic><Bear_Grizzly>0.07</Bear_Grizzly><Wolf_Timber>0.07</Wolf_Timber><Wolf_Arctic>0.07</Wolf_Arctic><Cougar>0.07</Cougar><Lynx>0.07</Lynx><Warg>0.07</Warg><OE_Direwolf>0.07</OE_Direwolf><OE_Tionant_Blue>0.07</OE_Tionant_Blue><OE_Tionant_Green>0.07</OE_Tionant_Green><OE_Tionant_Red>0.07</OE_Tionant_Red><OE_Tionant_Yellow>0.07</OE_Tionant_Yellow><OE_Astrinx>0.1</OE_Astrinx><OE_Bruul_Acid>0.05</OE_Bruul_Acid><OE_Bruul_Cryo>0.05</OE_Bruul_Cryo><OE_Bruul_Fire>0.05</OE_Bruul_Fire><OE_Bruul_EMP>0.05</OE_Bruul_EMP><OE_Arachna_Blue>0.1</OE_Arachna_Blue></wildAnimals><pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech"><WasteRat MayRequire="Ludeon.RimWorld.Biotech">1</WasteRat><Rat>0.5</Rat><Raccoon>0.25</Raccoon><Warg>0.05</Warg></pollutionWildAnimals><allowedPackAnimals><li>Muffalo</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><forested>true</forested><uniqueHills>true</uniqueHills><forestSnowyBelow>0</forestSnowyBelow><forestSparseBelow>1100</forestSparseBelow><forestDenseAbove>1500</forestDenseAbove><snowpilesBelow>-15</snowpilesBelow><mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow><impassableSemiSnowyBelow>25</impassableSemiSnowyBelow><mountainsSnowyBelow>-5</mountainsSnowyBelow><impassableSnowyBelow>0</impassableSnowyBelow><mountainsVerySnowyBelow>-12</mountainsVerySnowyBelow><impassableVerySnowyBelow>-5</impassableVerySnowyBelow><mountainsFullySnowyBelow>-21</mountainsFullySnowyBelow><impassableFullySnowyBelow>-21</impassableFullySnowyBelow><materialRandomRotation>false</materialRandomRotation><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>NormalSand</sandReplacement><gravelReplacement>DryGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: NormalSandDryBarrenGravel.
+
+Whole XML:
+
+<BiomeDef><defName>Tundra</defName><label>tundra</label><description>These mostly-frozen plains bear almost no trees and little vegetation. There are a few small animals interspersed with large herds of migratory grazers and their predators.</description><workerClass>BiomeWorker_Tundra</workerClass><allowFarmingCamps>false</allowFarmingCamps><animalDensity>1.1</animalDensity><plantDensity>0.6</plantDensity><settlementSelectionWeight>0.32</settlementSelectionWeight><campSelectionWeight>0.1</campSelectionWeight><movementDifficulty>1</movementDifficulty><texture>World/Biomes/Replace/Tundra</texture><forageability>0.5</forageability><foragedFood>RawBerries</foragedFood><wildPlantRegrowDays>28</wildPlantRegrowDays><soundsAmbient><li>Ambient_NightInsects_Standard</li></soundsAmbient><diseaseMtbDays>80</diseaseMtbDays><diseases><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>80</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>40</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>40</commonality></li><li><diseaseInc>Disease_GutWorms</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_MuscleParasites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>80</commonality></li></diseases><terrainsByFertility><li><terrain>NormalSoil</terrain><min>-999</min><max>0.84</max></li><li><terrain>NormalFertileSoil</terrain><min>0.84</min><max>0.93</max></li><li><terrain>NormalRichSoil</terrain><min>0.93</min><max>999</max></li></terrainsByFertility><terrainPatchMakers><li><perlinFrequency>0.015</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.64</min><max>0.83</max></li><li><terrain>FloodedSoil</terrain><min>0.83</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.025</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.72</min><max>0.83</max></li><li><terrain>WetFertileSoil</terrain><min>0.83</min><max>0.94</max></li><li><terrain>FloodedFertileSoil</terrain><min>0.94</min><max>999</max></li></thresholds></li></terrainPatchMakers><baseWeatherCommonalities><Clear>18</Clear><Fog>1</Fog><Rain>2</Rain><DryThunderstorm>1</DryThunderstorm><RainyThunderstorm>1</RainyThunderstorm><FoggyRain>1</FoggyRain><SnowGentle>4</SnowGentle><SnowHard>4</SnowHard><RG_Drizzle>2</RG_Drizzle><RG_FoggySnow>2</RG_FoggySnow><RG_Overcast>6</RG_Overcast><RG_Windy>8</RG_Windy><RG_Blizzard>0.5</RG_Blizzard></baseWeatherCommonalities><wildPlants><Plant_Grass>20</Plant_Grass><Plant_TallGrass>3.5</Plant_TallGrass><Plant_Moss>6.5</Plant_Moss><Plant_Bush>4.5</Plant_Bush><Plant_Brambles>4</Plant_Brambles><Plant_Dandelion>0.5</Plant_Dandelion><Plant_TreePine>0.16</Plant_TreePine><Plant_TreeBirch>0.1</Plant_TreeBirch><Plant_Berry>1</Plant_Berry><RG_Plant_Raspberry>0.3</RG_Plant_Raspberry><Plant_HealrootWild>0.18</Plant_HealrootWild><Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">10</Plant_GrayGrass><Plant_Ripthorn MayRequire="Ludeon.RimWorld.Biotech">4</Plant_Ripthorn><Plant_TreeGrayPine MayRequire="Ludeon.RimWorld.Biotech">0.16</Plant_TreeGrayPine><VCE_CherryTree>0.01</VCE_CherryTree><VCE_BearBerryBush>0.01</VCE_BearBerryBush></wildPlants><wildAnimals><Hare>2</Hare><Snowhare>2</Snowhare><Caribou>2</Caribou><Elk>2</Elk><Muffalo>2</Muffalo><Ibex>2</Ibex><Megasloth>0.2</Megasloth><Fox_Arctic>0.07</Fox_Arctic><Wolf_Arctic>0.07</Wolf_Arctic><Wolf_Timber>0.07</Wolf_Timber><Lynx>0.07</Lynx><Warg>0.07</Warg><Bear_Polar>0.07</Bear_Polar><Bear_Grizzly>0.07</Bear_Grizzly><OE_Tionant_Blue>0.07</OE_Tionant_Blue><OE_Tionant_Green>0.07</OE_Tionant_Green><OE_Tionant_Red>0.07</OE_Tionant_Red><OE_Tionant_Yellow>0.07</OE_Tionant_Yellow><OE_Bruul_Acid>0.05</OE_Bruul_Acid><OE_Bruul_Cryo>0.05</OE_Bruul_Cryo><OE_Bruul_Fire>0.05</OE_Bruul_Fire><OE_Bruul_EMP>0.05</OE_Bruul_EMP><OE_Arachna_Blue>0.1</OE_Arachna_Blue></wildAnimals><pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech"><WasteRat MayRequire="Ludeon.RimWorld.Biotech">1</WasteRat><Warg>0.05</Warg></pollutionWildAnimals><allowedPackAnimals><li>Muffalo</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><forested>true</forested><uniqueHills>true</uniqueHills><forestSnowyBelow>0</forestSnowyBelow><forestSparseBelow>1100</forestSparseBelow><forestDenseAbove>1500</forestDenseAbove><snowpilesBelow>-15</snowpilesBelow><mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow><impassableSemiSnowyBelow>25</impassableSemiSnowyBelow><mountainsSnowyBelow>-5</mountainsSnowyBelow><impassableSnowyBelow>0</impassableSnowyBelow><mountainsVerySnowyBelow>-12</mountainsVerySnowyBelow><impassableVerySnowyBelow>-5</impassableVerySnowyBelow><mountainsFullySnowyBelow>-21</mountainsFullySnowyBelow><impassableFullySnowyBelow>-21</impassableFullySnowyBelow><materialRandomRotation>false</materialRandomRotation><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>NormalSand</sandReplacement><gravelReplacement>DryBarrenGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: WetSandNormalGravel.
+
+Whole XML:
+
+<BiomeDef><defName>ColdBog</defName><label>cold bog</label><description>A wetland packed with trees and vines. Much of the marshy land here can't support heavy structures, moving around is slow due to choking vegetation. Disease is endemic in this dense, wet ecosystem.</description><workerClass>BiomeWorker_ColdBog</workerClass><allowFarmingCamps>false</allowFarmingCamps><animalDensity>3.3</animalDensity><plantDensity>0.6</plantDensity><settlementSelectionWeight>0.17</settlementSelectionWeight><campSelectionWeight>0.1</campSelectionWeight><movementDifficulty>4</movementDifficulty><texture>World/Biomes/ColdBog</texture><forageability>0.5</forageability><foragedFood>RawBerries</foragedFood><wildPlantRegrowDays>20</wildPlantRegrowDays><soundsAmbient><li>Ambient_NightInsects_Standard</li></soundsAmbient><diseaseMtbDays>45</diseaseMtbDays><diseases><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>80</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>40</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>40</commonality></li><li><diseaseInc>Disease_GutWorms</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_MuscleParasites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>80</commonality></li></diseases><terrainsByFertility><li><terrain>NormalSoil</terrain><min>-999</min><max>0.83</max></li><li><terrain>NormalFertileSoil</terrain><min>0.83</min><max>0.94</max></li><li><terrain>NormalRichSoil</terrain><min>0.94</min><max>999</max></li></terrainsByFertility><terrainPatchMakers><li><perlinFrequency>0.028</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.38</min><max>0.46</max></li><li><terrain>FloodedSoil</terrain><min>0.46</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.027</perlinFrequency><thresholds><li><terrain>WetFertileSoil</terrain><min>-0.03</min><max>0.15</max></li><li><terrain>WetRichSoil</terrain><min>0.15</min><max>0.24</max></li><li><terrain>FloodedFertileSoil</terrain><min>0.24</min><max>0.39</max></li><li><terrain>FloodedRichSoil</terrain><min>0.39</min><max>0.63</max></li><li><terrain>WaterShallow</terrain><min>0.63</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.015</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.69</min><max>0.83</max></li><li><terrain>FloodedSoil</terrain><min>0.83</min><max>999</max></li></thresholds></li></terrainPatchMakers><baseWeatherCommonalities><Clear>18</Clear><Fog>1</Fog><Rain>2</Rain><DryThunderstorm>1</DryThunderstorm><RainyThunderstorm>1</RainyThunderstorm><FoggyRain>1</FoggyRain><SnowGentle>4</SnowGentle><SnowHard>4</SnowHard><RG_Drizzle>2</RG_Drizzle><RG_FoggySnow>2</RG_FoggySnow><RG_Overcast>6</RG_Overcast><RG_Windy>8</RG_Windy><RG_Blizzard>0.5</RG_Blizzard></baseWeatherCommonalities><wildPlants><Plant_Chokevine>3.5</Plant_Chokevine><Plant_Grass>15</Plant_Grass><Plant_TallGrass>2.5</Plant_TallGrass><Plant_Moss>3</Plant_Moss><Plant_Bush>0.8</Plant_Bush><Plant_Astragalus>0.3</Plant_Astragalus><Plant_TreeWillow>0.6</Plant_TreeWillow><Plant_TreeCypress>0.6</Plant_TreeCypress><Plant_TreeMaple>0.6</Plant_TreeMaple><Plant_TreePine>0.4</Plant_TreePine><Plant_Berry>0.05</Plant_Berry><RG_Plant_Raspberry>0.02</RG_Plant_Raspberry><Plant_HealrootWild>0.05</Plant_HealrootWild><Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">7</Plant_GrayGrass><Plant_Ripthorn MayRequire="Ludeon.RimWorld.Biotech">5</Plant_Ripthorn><Plant_TreeGrayPine MayRequire="Ludeon.RimWorld.Biotech">0.2</Plant_TreeGrayPine><VCE_PlumTree>0.01</VCE_PlumTree><VCE_PearTree>0.01</VCE_PearTree></wildPlants><wildAnimals><GuineaPig>0.07</GuineaPig><Yak>0.2</Yak><Squirrel>1</Squirrel><Hare>1</Hare><Rat>1</Rat><Elk>0.5</Elk><Caribou>0.5</Caribou><Muffalo>0.5</Muffalo><WildBoar>0.5</WildBoar><Ibex>0.5</Ibex><Raccoon>0.5</Raccoon><Turkey>0.5</Turkey><Deer>0.5</Deer><Megasloth>0.1</Megasloth><Fox_Red>0.07</Fox_Red><Fox_Arctic>0.07</Fox_Arctic><Wolf_Timber>0.07</Wolf_Timber><Wolf_Arctic>0.07</Wolf_Arctic><Cougar>0.07</Cougar><Lynx>0.07</Lynx><Warg>0.07</Warg><Bear_Polar>0.07</Bear_Polar><Bear_Grizzly>0.07</Bear_Grizzly><OE_Direwolf>0.07</OE_Direwolf><OE_Tionant_Blue>0.07</OE_Tionant_Blue><OE_Tionant_Green>0.07</OE_Tionant_Green><OE_Tionant_Red>0.07</OE_Tionant_Red><OE_Tionant_Yellow>0.07</OE_Tionant_Yellow><OE_Astrinx>0.1</OE_Astrinx><OE_Bruul_Acid>0.05</OE_Bruul_Acid><OE_Bruul_Cryo>0.05</OE_Bruul_Cryo><OE_Bruul_Fire>0.05</OE_Bruul_Fire><OE_Bruul_EMP>0.05</OE_Bruul_EMP><OE_Arachna_Blue>0.1</OE_Arachna_Blue></wildAnimals><pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech"><WasteRat MayRequire="Ludeon.RimWorld.Biotech">1</WasteRat><Rat>0.5</Rat><Raccoon>0.25</Raccoon><Warg>0.05</Warg></pollutionWildAnimals><allowedPackAnimals><li>Muffalo</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><forested>true</forested><uniqueHills>true</uniqueHills><snowpilesBelow>-15</snowpilesBelow><mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow><impassableSemiSnowyBelow>25</impassableSemiSnowyBelow><mountainsSnowyBelow>-5</mountainsSnowyBelow><impassableSnowyBelow>0</impassableSnowyBelow><mountainsVerySnowyBelow>-12</mountainsVerySnowyBelow><impassableVerySnowyBelow>-5</impassableVerySnowyBelow><mountainsFullySnowyBelow>-21</mountainsFullySnowyBelow><impassableFullySnowyBelow>-21</impassableFullySnowyBelow><materialRandomRotation>false</materialRandomRotation><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>WetSand</sandReplacement><gravelReplacement>NormalGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: NormalSandDryBarrenGravel.
+
+Whole XML:
+
+<BiomeDef><defName>IceSheet</defName><label>ice sheet</label><description>Sheets of ice which can be kilometers thick. There is no soil for plants to grow in. The only animals here are migrating to somewhere else - or badly lost.</description><workerClass>BiomeWorker_IceSheet</workerClass><allowRoads>false</allowRoads><allowRivers>false</allowRivers><allowFarmingCamps>false</allowFarmingCamps><animalDensity>0.2</animalDensity><plantDensity>0</plantDensity><hasVirtualPlants>false</hasVirtualPlants><settlementSelectionWeight>0.15</settlementSelectionWeight><campSelectionWeight>0.1</campSelectionWeight><movementDifficulty>1.5</movementDifficulty><texture>World/Biomes/IceSheet</texture><forageability>0</forageability><isExtremeBiome>true</isExtremeBiome><soundsAmbient><li>Ambient_Wind_Desolate</li></soundsAmbient><diseaseMtbDays>90</diseaseMtbDays><diseases><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>80</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>80</commonality></li></diseases><terrainsByFertility><li><terrain>Ice</terrain><min>-999</min><max>999</max></li></terrainsByFertility><terrainPatchMakers><li><perlinFrequency>0.015</perlinFrequency><thresholds><li><terrain>WaterOceanShallow</terrain><min>0.76</min><max>0.90</max></li><li><terrain>WaterOceanChestDeep</terrain><min>0.90</min><max>0.99</max></li><li><terrain>WaterOceanDeep</terrain><min>0.99</min><max>999</max></li></thresholds></li></terrainPatchMakers><baseWeatherCommonalities><Clear>12</Clear><Fog>0</Fog><Rain>0</Rain><DryThunderstorm>2</DryThunderstorm><RainyThunderstorm>0</RainyThunderstorm><FoggyRain>0</FoggyRain><SnowGentle>20</SnowGentle><SnowHard>40</SnowHard><RG_FoggySnow>20</RG_FoggySnow><RG_Overcast>8</RG_Overcast><RG_Windy>6</RG_Windy><RG_Blizzard>0.5</RG_Blizzard></baseWeatherCommonalities><wildAnimals><Snowhare>2</Snowhare><Muffalo>0.1</Muffalo><Bear_Polar>0.1</Bear_Polar><Wolf_Arctic>0.1</Wolf_Arctic><Fox_Arctic>0.1</Fox_Arctic><Lynx>0.1</Lynx><Megasloth>0.1</Megasloth></wildAnimals><allowedPackAnimals><li>Muffalo</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><uniqueHills>true</uniqueHills><snowpilesBelow>999</snowpilesBelow><mountainsSnowyBelow>999</mountainsSnowyBelow><impassableSnowyBelow>999</impassableSnowyBelow><mountainsVerySnowyBelow>-12</mountainsVerySnowyBelow><impassableVerySnowyBelow>-5</impassableVerySnowyBelow><mountainsFullySnowyBelow>-21</mountainsFullySnowyBelow><impassableFullySnowyBelow>-21</impassableFullySnowyBelow><materialRandomRotation>false</materialRandomRotation><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>NormalSand</sandReplacement><gravelReplacement>DryBarrenGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: NormalSandDryGravel.
+
+Whole XML:
+
+<BiomeDef><defName>TemperateForest</defName><label>temperate forest</label><description>Forests of deciduous trees interspersed with fertile clearings. Many species of animals move around among the trees and on the plains.</description><workerClass>BiomeWorker_TemperateForest</workerClass><animalDensity>3.7</animalDensity><plantDensity>0.9</plantDensity><settlementSelectionWeight>1</settlementSelectionWeight><movementDifficulty>1</movementDifficulty><texture>World/Biomes/TemperateForest</texture><forageability>1</forageability><foragedFood>RawBerries</foragedFood><wildPlantRegrowDays>20</wildPlantRegrowDays><soundsAmbient><li>Ambient_NightInsects_Standard</li></soundsAmbient><diseaseMtbDays>50</diseaseMtbDays><diseases><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Malaria</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_GutWorms</diseaseInc><commonality>50</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_MuscleParasites</diseaseInc><commonality>50</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>100</commonality></li></diseases><terrainsByFertility><li><terrain>NormalSoil</terrain><min>-999</min><max>0.83</max></li><li><terrain>NormalFertileSoil</terrain><min>0.83</min><max>0.94</max></li><li><terrain>NormalRichSoil</terrain><min>0.94</min><max>999</max></li></terrainsByFertility><terrainPatchMakers><li><perlinFrequency>0.015</perlinFrequency><thresholds><li><terrain>NormalFertileSoil</terrain><min>0.73</min><max>0.80</max></li><li><terrain>WetFertileSoil</terrain><min>0.80</min><max>0.93</max></li><li><terrain>WaterShallow</terrain><min>0.93</min><max>1.01</max></li><li><terrain>WaterChestDeep</terrain><min>1.01</min><max>1.07</max></li><li><terrain>WaterDeep</terrain><min>1.07</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.035</perlinFrequency><thresholds><li><terrain>NormalFertileSoil</terrain><min>0.75</min><max>0.79</max></li><li><terrain>WetFertileSoil</terrain><min>0.79</min><max>0.83</max></li><li><terrain>FloodedFertileSoil</terrain><min>0.83</min><max>1.01</max></li><li><terrain>WaterShallow</terrain><min>1.01</min><max>999</max></li></thresholds></li></terrainPatchMakers><baseWeatherCommonalities><Clear>18</Clear><Fog>1</Fog><Rain>2</Rain><DryThunderstorm>1</DryThunderstorm><RainyThunderstorm>1</RainyThunderstorm><FoggyRain>1</FoggyRain><SnowGentle>4</SnowGentle><SnowHard>4</SnowHard><RG_Drizzle>2</RG_Drizzle><RG_FoggySnow>2</RG_FoggySnow><RG_Overcast>6</RG_Overcast><RG_Windy>8</RG_Windy><RG_Blizzard>0.5</RG_Blizzard><RG_Monsoon>0.5</RG_Monsoon></baseWeatherCommonalities><wildPlants><Plant_Grass>10</Plant_Grass><Plant_TallGrass>3</Plant_TallGrass><Plant_Brambles>1</Plant_Brambles><Plant_Moss>1</Plant_Moss><Plant_Bush>1.6</Plant_Bush><Plant_Dandelion>0.5</Plant_Dandelion><Plant_TreePoplar>0.6</Plant_TreePoplar><Plant_TreePine>0.8</Plant_TreePine><Plant_TreeOak>0.9</Plant_TreeOak><Plant_TreeTeak>0.1</Plant_TreeTeak><Plant_TreeBirch>0.4</Plant_TreeBirch><Plant_Berry>0.07</Plant_Berry><RG_Plant_Raspberry>0.05</RG_Plant_Raspberry><Plant_HealrootWild>0.05</Plant_HealrootWild><Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">5</Plant_GrayGrass><Plant_Ripthorn MayRequire="Ludeon.RimWorld.Biotech">0.8</Plant_Ripthorn><Plant_Witchwood MayRequire="Ludeon.RimWorld.Biotech">0.5</Plant_Witchwood><Plant_TreeGrayPine MayRequire="Ludeon.RimWorld.Biotech">0.8</Plant_TreeGrayPine><VCE_AppleTree>0.01</VCE_AppleTree><VCE_BearBerryBush>0.01</VCE_BearBerryBush></wildPlants><wildAnimals><Donkey>0.20</Donkey><GuineaPig>0.45</GuineaPig><Yak>0.06</Yak><Bison>0.07</Bison><Horse>0.20</Horse><Hare>1.0</Hare><Squirrel>1.0</Squirrel><Rat>1.0</Rat><Deer>0.5</Deer><WildBoar>0.5</WildBoar><Turkey>0.5</Turkey><Raccoon>0.5</Raccoon><Ibex>0.5</Ibex><Muffalo>0.5</Muffalo><Alpaca>0.5</Alpaca><Boomalope>0.4</Boomalope><Boomrat>0.4</Boomrat><Tortoise>0.3</Tortoise><Gazelle>0.3</Gazelle><Megasloth>0.2</Megasloth><Rhinoceros>0.1</Rhinoceros><Bear_Grizzly>0.07</Bear_Grizzly><Wolf_Timber>0.07</Wolf_Timber><Fox_Red>0.07</Fox_Red><Cougar>0.07</Cougar><Lynx>0.07</Lynx><Warg>0.07</Warg><OE_Armagon>0.2</OE_Armagon><OE_Direwolf>0.1</OE_Direwolf><OE_Tionant_Blue>0.07</OE_Tionant_Blue><OE_Tionant_Green>0.07</OE_Tionant_Green><OE_Tionant_Red>0.07</OE_Tionant_Red><OE_Tionant_Yellow>0.07</OE_Tionant_Yellow><OE_Astrinx>0.1</OE_Astrinx><OE_Ogren>0.07</OE_Ogren><OE_Bruul_Acid>0.05</OE_Bruul_Acid><OE_Bruul_Cryo>0.05</OE_Bruul_Cryo><OE_Bruul_Fire>0.05</OE_Bruul_Fire><OE_Bruul_EMP>0.05</OE_Bruul_EMP><OE_Arachna_Green>0.1</OE_Arachna_Green></wildAnimals><pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech"><Toxalope MayRequire="Ludeon.RimWorld.Biotech">0.4</Toxalope><WasteRat MayRequire="Ludeon.RimWorld.Biotech">0.1</WasteRat><Rat>1</Rat><Raccoon>0.5</Raccoon><Boomrat>0.4</Boomrat><Boomalope>0.1</Boomalope><Warg>0.05</Warg></pollutionWildAnimals><allowedPackAnimals><li>Muffalo</li><li>Alpaca</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li><li>OE_Armagon</li><li>OE_Ogren</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><forested>true</forested><uniqueHills>true</uniqueHills><forestSparseBelow>1100</forestSparseBelow><forestDenseAbove>1500</forestDenseAbove><mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow><impassableSemiSnowyBelow>25</impassableSemiSnowyBelow><impassableVerySnowyBelow>-5</impassableVerySnowyBelow><mountainsSnowyBelow>-5</mountainsSnowyBelow><impassableSnowyBelow>0</impassableSnowyBelow><materialRandomRotation>false</materialRandomRotation><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>NormalSand</sandReplacement><gravelReplacement>DryGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: WetSandNormalGravel.
+
+Whole XML:
+
+<BiomeDef><defName>TemperateSwamp</defName><label>temperate swamp</label><description>Wetlands choked with vegetation and disease. Dense overgrowth makes it hard to move around, and clearing areas for building takes a long time. Much of the terrain is too marshy to support heavy structures.</description><workerClass>BiomeWorker_TemperateSwamp</workerClass><animalDensity>4.3</animalDensity><plantDensity>1.8</plantDensity><settlementSelectionWeight>0.6</settlementSelectionWeight><campSelectionWeight>0.9</campSelectionWeight><movementDifficulty>4</movementDifficulty><texture>World/Biomes/TemperateSwamp</texture><forageability>0.75</forageability><foragedFood>RawBerries</foragedFood><wildPlantRegrowDays>15</wildPlantRegrowDays><soundsAmbient><li>Ambient_NightInsects_Standard</li></soundsAmbient><diseaseMtbDays>40</diseaseMtbDays><diseases><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Malaria</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_GutWorms</diseaseInc><commonality>50</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_MuscleParasites</diseaseInc><commonality>50</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>100</commonality></li></diseases><terrainsByFertility><li><terrain>NormalSoil</terrain><min>-999</min><max>0.83</max></li><li><terrain>NormalFertileSoil</terrain><min>0.83</min><max>0.94</max></li><li><terrain>NormalRichSoil</terrain><min>0.94</min><max>999</max></li></terrainsByFertility><terrainPatchMakers><li><perlinFrequency>0.10</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.36</min><max>0.58</max></li><li><terrain>WetFertileSoil</terrain><min>0.58</min><max>0.92</max></li><li><terrain>FloodedFertileSoil</terrain><min>0.92</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.027</perlinFrequency><thresholds><li><terrain>WetFertileSoil</terrain><min>-0.03</min><max>0.15</max></li><li><terrain>WetRichSoil</terrain><min>0.15</min><max>0.24</max></li><li><terrain>FloodedFertileSoil</terrain><min>0.24</min><max>0.39</max></li><li><terrain>FloodedRichSoil</terrain><min>0.39</min><max>0.63</max></li><li><terrain>WaterShallow</terrain><min>0.63</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.035</perlinFrequency><thresholds><li><terrain>NormalFertileSoil</terrain><min>0.71</min><max>0.76</max></li><li><terrain>WetFertileSoil</terrain><min>0.76</min><max>0.82</max></li><li><terrain>FloodedFertileSoil</terrain><min>0.82</min><max>999</max></li></thresholds></li></terrainPatchMakers><baseWeatherCommonalities><Clear>18</Clear><Fog>1</Fog><Rain>2</Rain><DryThunderstorm>1</DryThunderstorm><RainyThunderstorm>1</RainyThunderstorm><FoggyRain>1</FoggyRain><SnowGentle>4</SnowGentle><SnowHard>4</SnowHard><RG_Drizzle>2</RG_Drizzle><RG_FoggySnow>2</RG_FoggySnow><RG_Overcast>6</RG_Overcast><RG_Windy>8</RG_Windy><RG_Blizzard>0.5</RG_Blizzard><RG_Monsoon>0.5</RG_Monsoon></baseWeatherCommonalities><wildPlants><Plant_TallGrass>3.2</Plant_TallGrass><Plant_Chokevine>0.8</Plant_Chokevine><Plant_Bush>0.2</Plant_Bush><Plant_TreeWillow>1.0</Plant_TreeWillow><Plant_TreeCypress>1.0</Plant_TreeCypress><Plant_TreeMaple>1.0</Plant_TreeMaple><Plant_Berry>0.05</Plant_Berry><Plant_HealrootWild>0.05</Plant_HealrootWild><Plant_Witchwood MayRequire="Ludeon.RimWorld.Biotech">1.0</Plant_Witchwood><Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">5</Plant_GrayGrass><Plant_Ripthorn MayRequire="Ludeon.RimWorld.Biotech">0.8</Plant_Ripthorn><Plant_TreeGrayPine MayRequire="Ludeon.RimWorld.Biotech">0.5</Plant_TreeGrayPine><VCE_PlumTree>0.01</VCE_PlumTree><VCE_PearTree>0.01</VCE_PearTree></wildPlants><wildAnimals><GuineaPig>0.15</GuineaPig><Yak>0.04</Yak><Horse>0.20</Horse><Hare>1.0</Hare><Squirrel>1.0</Squirrel><Rat>1.0</Rat><Tortoise>0.6</Tortoise><Deer>0.5</Deer><WildBoar>0.5</WildBoar><Turkey>0.5</Turkey><Raccoon>0.5</Raccoon><Ibex>0.5</Ibex><Muffalo>0.5</Muffalo><Alpaca>0.5</Alpaca><Boomalope>0.4</Boomalope><Boomrat>0.4</Boomrat><Megasloth>0.2</Megasloth><Rhinoceros>0.1</Rhinoceros><Bear_Grizzly>0.07</Bear_Grizzly><Wolf_Timber>0.07</Wolf_Timber><Fox_Red>0.07</Fox_Red><Cougar>0.07</Cougar><Lynx>0.07</Lynx><Warg>0.07</Warg><OE_Armagon>0.2</OE_Armagon><OE_Direwolf>0.1</OE_Direwolf><OE_Tionant_Blue>0.07</OE_Tionant_Blue><OE_Tionant_Green>0.07</OE_Tionant_Green><OE_Tionant_Red>0.07</OE_Tionant_Red><OE_Tionant_Yellow>0.07</OE_Tionant_Yellow><OE_Astrinx>0.1</OE_Astrinx><OE_Ogren>0.07</OE_Ogren><OE_Bruul_Acid>0.05</OE_Bruul_Acid><OE_Bruul_Cryo>0.05</OE_Bruul_Cryo><OE_Bruul_Fire>0.05</OE_Bruul_Fire><OE_Bruul_EMP>0.05</OE_Bruul_EMP><OE_Arachna_Green>0.1</OE_Arachna_Green></wildAnimals><pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech"><Toxalope MayRequire="Ludeon.RimWorld.Biotech">0.4</Toxalope><WasteRat MayRequire="Ludeon.RimWorld.Biotech">0.5</WasteRat><Rat>1</Rat><Raccoon>0.5</Raccoon><Boomrat>0.4</Boomrat><Boomalope>0.1</Boomalope><Warg>0.05</Warg></pollutionWildAnimals><allowedPackAnimals><li>Muffalo</li><li>Alpaca</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li><li>OE_Armagon</li><li>OE_Ogren</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><forested>true</forested><uniqueHills>true</uniqueHills><mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow><impassableSemiSnowyBelow>25</impassableSemiSnowyBelow><impassableVerySnowyBelow>-5</impassableVerySnowyBelow><mountainsSnowyBelow>-5</mountainsSnowyBelow><impassableSnowyBelow>0</impassableSnowyBelow><materialRandomRotation>false</materialRandomRotation><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>WetSand</sandReplacement><gravelReplacement>NormalGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: NormalSandDryGravel.
+
+Whole XML:
+
+<BiomeDef><defName>TropicalRainforest</defName><label>tropical rainforest</label><description>A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell".</description><workerClass>BiomeWorker_TropicalRainforest</workerClass><animalDensity>5.4</animalDensity><plantDensity>1.85</plantDensity><settlementSelectionWeight>0.7</settlementSelectionWeight><movementDifficulty>2</movementDifficulty><texture>World/Biomes/TropicalRainforest</texture><forageability>1</forageability><foragedFood>RawBerries</foragedFood><wildPlantRegrowDays>15</wildPlantRegrowDays><soundsAmbient><li>Ambient_NightInsects_Jungle</li><li>Ambient_DayInsects_Jungle</li></soundsAmbient><diseaseMtbDays>35</diseaseMtbDays><diseases><li><diseaseInc>Disease_Malaria</diseaseInc><commonality>160</commonality></li><li><diseaseInc>Disease_SleepingSickness</diseaseInc><commonality>140</commonality></li><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_GutWorms</diseaseInc><commonality>80</commonality></li><li><diseaseInc>Disease_MuscleParasites</diseaseInc><commonality>80</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>100</commonality></li></diseases><terrainsByFertility><li><terrain>NormalSoil</terrain><min>-999</min><max>0.83</max></li><li><terrain>NormalFertileSoil</terrain><min>0.83</min><max>0.94</max></li><li><terrain>NormalRichSoil</terrain><min>0.94</min><max>999</max></li></terrainsByFertility><terrainPatchMakers><li><perlinFrequency>0.04</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.7</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.035</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.64</min><max>0.87</max></li><li><terrain>FloodedSoil</terrain><min>0.87</min><max>999</max></li></thresholds></li></terrainPatchMakers><baseWeatherCommonalities><Clear>18</Clear><Fog>1</Fog><Rain>2</Rain><DryThunderstorm>0.3</DryThunderstorm><RainyThunderstorm>1.7</RainyThunderstorm><FoggyRain>1</FoggyRain><SnowGentle>4</SnowGentle><SnowHard>4</SnowHard><RG_FoggySnow>2</RG_FoggySnow><RG_Drizzle>2</RG_Drizzle><RG_Overcast>6</RG_Overcast><RG_Windy>8</RG_Windy><RG_Monsoon>0.5</RG_Monsoon></baseWeatherCommonalities><wildPlants><Plant_Grass>8</Plant_Grass><Plant_TallGrass>3</Plant_TallGrass><Plant_ShrubLow>3</Plant_ShrubLow><Plant_Alocasia>0.8</Plant_Alocasia><Plant_TreeCecropia>0.3</Plant_TreeCecropia><Plant_TreePalm>0.3</Plant_TreePalm><Plant_TreeBamboo>0.3</Plant_TreeBamboo><Plant_TreeTeak>0.2</Plant_TreeTeak><Plant_Bush>0.45</Plant_Bush><Plant_Clivia>0.07</Plant_Clivia><Plant_Berry>0.08</Plant_Berry><Plant_Rafflesia>0.0008</Plant_Rafflesia><Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">4</Plant_GrayGrass><Plant_RatPalm MayRequire="Ludeon.RimWorld.Biotech">0.3</Plant_RatPalm><VCE_BananaTree>0.01</VCE_BananaTree><VCE_OrangeTree>0.01</VCE_OrangeTree></wildPlants><wildAnimals><GuineaPig>0.25</GuineaPig><Rat>1</Rat><Monkey>1</Monkey><Boomalope>0.5</Boomalope><Capybara>0.5</Capybara><Cassowary>0.5</Cassowary><Tortoise>0.5</Tortoise><Chinchilla>0.5</Chinchilla><WildBoar>0.5</WildBoar><Elephant>0.5</Elephant><Rhinoceros>0.5</Rhinoceros><Alpaca>0.5</Alpaca><Cobra>0.15</Cobra><Panther>0.15</Panther><OE_Armagon>0.2</OE_Armagon><OE_Raptor>0.1</OE_Raptor><OE_Tionant_Blue>0.07</OE_Tionant_Blue><OE_Tionant_Green>0.07</OE_Tionant_Green><OE_Tionant_Red>0.07</OE_Tionant_Red><OE_Tionant_Yellow>0.07</OE_Tionant_Yellow><OE_Ogren>0.07</OE_Ogren><OE_Bruul_Acid>0.05</OE_Bruul_Acid><OE_Bruul_Cryo>0.05</OE_Bruul_Cryo><OE_Bruul_Fire>0.05</OE_Bruul_Fire><OE_Bruul_EMP>0.05</OE_Bruul_EMP><OE_Arachna_Green>0.1</OE_Arachna_Green></wildAnimals><pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech"><Toxalope MayRequire="Ludeon.RimWorld.Biotech">0.4</Toxalope><Rat>1</Rat><Raccoon>0.5</Raccoon><Boomrat>0.4</Boomrat><Boomalope>0.1</Boomalope><Warg>0.05</Warg></pollutionWildAnimals><allowedPackAnimals><li>Muffalo</li><li>Elephant</li><li>Alpaca</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li><li>OE_Armagon</li><li>OE_Ogren</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><forested>true</forested><uniqueHills>true</uniqueHills><forestDenseAbove>3500</forestDenseAbove><mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow><impassableSemiSnowyBelow>25</impassableSemiSnowyBelow><materialRandomRotation>false</materialRandomRotation><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>NormalSand</sandReplacement><gravelReplacement>DryGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: WetSandNormalGravel.
+
+Whole XML:
+
+<BiomeDef><defName>TropicalSwamp</defName><label>tropical swamp</label><description>A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare.</description><workerClass>BiomeWorker_TropicalSwamp</workerClass><animalDensity>6.5</animalDensity><plantDensity>1.90</plantDensity><settlementSelectionWeight>0.4</settlementSelectionWeight><campSelectionWeight>0.9</campSelectionWeight><movementDifficulty>4</movementDifficulty><texture>World/Biomes/TropicalSwamp</texture><forageability>0.75</forageability><foragedFood>RawBerries</foragedFood><wildPlantRegrowDays>13</wildPlantRegrowDays><soundsAmbient><li>Ambient_NightInsects_Jungle</li><li>Ambient_DayInsects_Jungle</li></soundsAmbient><diseaseMtbDays>30</diseaseMtbDays><diseases><li><diseaseInc>Disease_Malaria</diseaseInc><commonality>160</commonality></li><li><diseaseInc>Disease_SleepingSickness</diseaseInc><commonality>140</commonality></li><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_GutWorms</diseaseInc><commonality>80</commonality></li><li><diseaseInc>Disease_MuscleParasites</diseaseInc><commonality>80</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>100</commonality></li></diseases><terrainsByFertility><li><terrain>NormalSoil</terrain><min>-999</min><max>0.83</max></li><li><terrain>NormalFertileSoil</terrain><min>0.83</min><max>0.94</max></li><li><terrain>NormalRichSoil</terrain><min>0.94</min><max>999</max></li></terrainsByFertility><terrainPatchMakers><li><perlinFrequency>0.04</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.35</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.027</perlinFrequency><thresholds><li><terrain>WetFertileSoil</terrain><min>-0.1</min><max>0.17</max></li><li><terrain>WetRichSoil</terrain><min>0.17</min><max>0.32</max></li><li><terrain>FloodedFertileSoil</terrain><min>0.24</min><max>0.39</max></li><li><terrain>FloodedRichSoil</terrain><min>0.39</min><max>0.62</max></li><li><terrain>WaterShallow</terrain><min>0.62</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.035</perlinFrequency><thresholds><li><terrain>WetSoil</terrain><min>0.24</min><max>0.48</max></li><li><terrain>FloodedSoil</terrain><min>0.48</min><max>999</max></li></thresholds></li></terrainPatchMakers><baseWeatherCommonalities><Clear>18</Clear><Fog>1</Fog><Rain>2</Rain><DryThunderstorm>0.3</DryThunderstorm><RainyThunderstorm>1.7</RainyThunderstorm><FoggyRain>1</FoggyRain><SnowGentle>4</SnowGentle><SnowHard>4</SnowHard><RG_FoggySnow>2</RG_FoggySnow><RG_Drizzle>2</RG_Drizzle><RG_Overcast>6</RG_Overcast><RG_Windy>8</RG_Windy><RG_Monsoon>0.5</RG_Monsoon></baseWeatherCommonalities><wildPlants><Plant_Grass>6</Plant_Grass><Plant_TallGrass>1.5</Plant_TallGrass><Plant_ShrubLow>2</Plant_ShrubLow><Plant_Bush>0.45</Plant_Bush><Plant_TreeWillow>1.92</Plant_TreeWillow><Plant_TreeCypress>1.92</Plant_TreeCypress><Plant_Alocasia>0.9</Plant_Alocasia><Plant_TreeCecropia>1.0</Plant_TreeCecropia><Plant_Chokevine>1.5</Plant_Chokevine><Plant_TreePalm>0.3</Plant_TreePalm><Plant_TreeBamboo>0.3</Plant_TreeBamboo><Plant_TreeTeak>0.2</Plant_TreeTeak><Plant_Clivia>0.14</Plant_Clivia><Plant_Berry>0.03</Plant_Berry><Plant_Rafflesia>0.010</Plant_Rafflesia><Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">3</Plant_GrayGrass><Plant_RatPalm MayRequire="Ludeon.RimWorld.Biotech">1.5</Plant_RatPalm><VCE_BananaTree>0.01</VCE_BananaTree><VCE_OrangeTree>0.01</VCE_OrangeTree></wildPlants><wildAnimals><GuineaPig>0.18</GuineaPig><Rat>1</Rat><Monkey>1</Monkey><Boomalope>0.5</Boomalope><Capybara>0.5</Capybara><Cassowary>0.5</Cassowary><Tortoise>0.5</Tortoise><Chinchilla>0.5</Chinchilla><WildBoar>0.5</WildBoar><Elephant>0.5</Elephant><Rhinoceros>0.5</Rhinoceros><Alpaca>0.5</Alpaca><Cobra>0.15</Cobra><Panther>0.15</Panther><OE_Armagon>0.2</OE_Armagon><OE_Raptor>0.1</OE_Raptor><OE_Tionant_Blue>0.07</OE_Tionant_Blue><OE_Tionant_Green>0.07</OE_Tionant_Green><OE_Tionant_Red>0.07</OE_Tionant_Red><OE_Tionant_Yellow>0.07</OE_Tionant_Yellow><OE_Ogren>0.07</OE_Ogren><OE_Bruul_Acid>0.05</OE_Bruul_Acid><OE_Bruul_Cryo>0.05</OE_Bruul_Cryo><OE_Bruul_Fire>0.05</OE_Bruul_Fire><OE_Bruul_EMP>0.05</OE_Bruul_EMP><OE_Arachna_Green>0.1</OE_Arachna_Green></wildAnimals><pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech"><Toxalope MayRequire="Ludeon.RimWorld.Biotech">0.4</Toxalope><Rat>1</Rat><Raccoon>0.5</Raccoon><Boomalope>0.1</Boomalope></pollutionWildAnimals><allowedPackAnimals><li>Muffalo</li><li>Elephant</li><li>Alpaca</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li><li>OE_Armagon</li><li>OE_Ogren</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><forested>true</forested><uniqueHills>true</uniqueHills><mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow><impassableSemiSnowyBelow>25</impassableSemiSnowyBelow><materialRandomRotation>false</materialRandomRotation><forestDenseAbove>2500</forestDenseAbove><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>WetSand</sandReplacement><gravelReplacement>NormalGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: DrySandParchedBarrenGravel.
+
+Whole XML:
+
+<BiomeDef><defName>AridShrubland</defName><label>arid shrubland</label><description>A dry region, but not dry enough to become a true desert. Open plains with grasses and bushes give way to scattered groves of trees. Plants are hardy and there is a moderate density of animals, but arable soil is hard to find.</description><workerClass>BiomeWorker_AridShrubland</workerClass><allowFarmingCamps>false</allowFarmingCamps><animalDensity>1.8</animalDensity><plantDensity>0.72</plantDensity><settlementSelectionWeight>0.95</settlementSelectionWeight><movementDifficulty>1</movementDifficulty><texture>World/Biomes/AridShrubland</texture><forageability>0.5</forageability><foragedFood>RawAgave</foragedFood><wildPlantRegrowDays>27</wildPlantRegrowDays><soundsAmbient><li>Ambient_NightInsects_Standard</li></soundsAmbient><diseaseMtbDays>65</diseaseMtbDays><diseases><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_GutWorms</diseaseInc><commonality>60</commonality></li><li><diseaseInc>Disease_MuscleParasites</diseaseInc><commonality>60</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>100</commonality></li></diseases><terrainsByFertility><li><terrain>DrySand</terrain><min>-999</min><max>0.45</max></li><li><terrain>DryLaterite</terrain><min>0.45</min><max>0.58</max></li><li><terrain>DryBarrenSoil</terrain><min>0.58</min><max>0.74</max></li><li><terrain>DrySoil</terrain><min>0.74</min><max>0.90</max></li><li><terrain>DryFertileSoil</terrain><min>0.90</min><max>999</max></li></terrainsByFertility><baseWeatherCommonalities><Clear>18</Clear><Fog>1</Fog><Rain>2</Rain><DryThunderstorm>1</DryThunderstorm><RainyThunderstorm>1</RainyThunderstorm><FoggyRain>0.5</FoggyRain><SnowGentle>4</SnowGentle><SnowHard>4</SnowHard><RG_Drizzle>2</RG_Drizzle><RG_FoggySnow>2</RG_FoggySnow><RG_Overcast>6</RG_Overcast><RG_Windy>8</RG_Windy><RG_Monsoon>0.3</RG_Monsoon><RG_SandStorm>1</RG_SandStorm><RG_SandStormHard>0.5</RG_SandStormHard></baseWeatherCommonalities><wildPlants><Plant_Grass>10</Plant_Grass><Plant_Dandelion>0.8</Plant_Dandelion><Plant_Bush>0.7</Plant_Bush><Plant_PincushionCactus>0.6</Plant_PincushionCactus><Plant_Agave>0.16</Plant_Agave><Plant_SaguaroCactus>0.26</Plant_SaguaroCactus><Plant_TreeDrago>0.20</Plant_TreeDrago><Plant_Berry>0.7</Plant_Berry><Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">5</Plant_GrayGrass><Plant_PebbleCactus MayRequire="Ludeon.RimWorld.Biotech">0.6</Plant_PebbleCactus><VCE_PeachTree>0.01</VCE_PeachTree><VCE_Opuntia>0.01</VCE_Opuntia></wildPlants><wildAnimals><Donkey>0.2</Donkey><GuineaPig>0.017</GuineaPig><Horse>0.1</Horse><Bison>0.1</Bison><Rat>1.3</Rat><Hare>1.3</Hare><Iguana>0.7</Iguana><Gazelle>0.7</Gazelle><Ostrich>0.7</Ostrich><Emu>0.7</Emu><Dromedary>0.7</Dromedary><Boomrat>0.5</Boomrat><Elephant>0.5</Elephant><Rhinoceros>0.5</Rhinoceros><Boomalope>0.5</Boomalope><Cougar>0.15</Cougar><Fox_Fennec>0.15</Fox_Fennec><Megasloth>0.1</Megasloth><OE_Armagon>0.2</OE_Armagon><OE_Direwolf>0.2</OE_Direwolf><OE_Raptor>0.1</OE_Raptor><OE_Tionant_Blue>0.07</OE_Tionant_Blue><OE_Tionant_Green>0.07</OE_Tionant_Green><OE_Tionant_Red>0.07</OE_Tionant_Red><OE_Tionant_Yellow>0.07</OE_Tionant_Yellow><OE_Ogren>0.07</OE_Ogren><OE_Bruul_Acid>0.05</OE_Bruul_Acid><OE_Bruul_Cryo>0.05</OE_Bruul_Cryo><OE_Bruul_Fire>0.05</OE_Bruul_Fire><OE_Bruul_EMP>0.05</OE_Bruul_EMP><OE_Arachna_Red>0.1</OE_Arachna_Red></wildAnimals><pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech"><Toxalope MayRequire="Ludeon.RimWorld.Biotech">0.1</Toxalope><WasteRat MayRequire="Ludeon.RimWorld.Biotech">0.1</WasteRat><Iguana>1</Iguana><Rat>0.6</Rat><Boomalope>0.4</Boomalope><Boomrat>0.4</Boomrat><Megascarab>0.2</Megascarab></pollutionWildAnimals><allowedPackAnimals><li>Muffalo</li><li>Dromedary</li><li>Elephant</li><li>Alpaca</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li><li>OE_Armagon</li><li>OE_Ogren</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><forested>true</forested><uniqueHills>true</uniqueHills><forestDenseAbove>1800</forestDenseAbove><forestSparseBelow>1100</forestSparseBelow><mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow><impassableSemiSnowyBelow>25</impassableSemiSnowyBelow><materialRandomRotation>false</materialRandomRotation><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><terrainPatchMakers><li><perlinFrequency>0.008</perlinFrequency><thresholds><li><terrain>ParchedLaterite</terrain><min>0.35</min><max>0.55</max></li></thresholds></li><li><perlinFrequency>0.030</perlinFrequency><thresholds><li><terrain>ParchedSand</terrain><min>0.65</min><max>0.81</max></li><li><terrain>ParchedLaterite</terrain><min>0.81</min><max>999</max></li></thresholds></li><li><perlinFrequency>0.025</perlinFrequency><thresholds><li><terrain>ParchedBarrenSoil</terrain><min>0.56</min><max>0.67</max></li><li><terrain>ParchedSoil</terrain><min>0.67</min><max>0.80</max></li><li><terrain>ParchedFertileSoil</terrain><min>0.80</min><max>0.95</max></li><li><terrain>ParchedRichSoil</terrain><min>0.95</min><max>999</max></li></thresholds></li></terrainPatchMakers><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>DrySand</sandReplacement><gravelReplacement>ParchedBarrenGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: DrySandParchedBarrenGravel.
+
+Whole XML:
+
+<BiomeDef><defName>Desert</defName><label>desert</label><description>A very dry area which supports little life. There is very little arable land, and animal life is very sparse. Deserts can be hot, or quite cold.</description><workerClass>BiomeWorker_Desert</workerClass><allowFarmingCamps>false</allowFarmingCamps><animalDensity>0.4</animalDensity><plantDensity>0.45</plantDensity><settlementSelectionWeight>0.65</settlementSelectionWeight><campSelectionWeight>0.1</campSelectionWeight><movementDifficulty>1</movementDifficulty><texture>World/Biomes/Desert</texture><forageability>0.25</forageability><foragedFood>RawAgave</foragedFood><wildPlantsCareAboutLocalFertility>false</wildPlantsCareAboutLocalFertility><wildPlantRegrowDays>35</wildPlantRegrowDays><diseaseMtbDays>90</diseaseMtbDays><diseases><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>80</commonality></li><li><diseaseInc>Disease_GutWorms</diseaseInc><commonality>60</commonality></li><li><diseaseInc>Disease_MuscleParasites</diseaseInc><commonality>60</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>80</commonality></li></diseases><terrainsByFertility><li><terrain>ParchedSand</terrain><min>-999</min><max>0.78</max></li><li><terrain>ParchedLaterite</terrain><min>0.78</min><max>0.93</max></li><li><terrain>ParchedBarrenSoil</terrain><min>0.93</min><max>999</max></li></terrainsByFertility><terrainPatchMakers><li><perlinFrequency>0.015</perlinFrequency><thresholds><li><terrain>DrySand</terrain><min>0.56</min><max>0.66</max></li><li><terrain>DryLaterite</terrain><min>0.66</min><max>0.80</max></li><li><terrain>DryBarrenSoil</terrain><min>0.80</min><max>0.92</max></li><li><terrain>DrySoil</terrain><min>0.92</min><max>999</max></li></thresholds></li></terrainPatchMakers><baseWeatherCommonalities><Clear>18</Clear><Rain>2</Rain><DryThunderstorm>1</DryThunderstorm><RainyThunderstorm>1</RainyThunderstorm><SnowGentle>4</SnowGentle><SnowHard>4</SnowHard><RG_Drizzle>2</RG_Drizzle><RG_FoggySnow>2</RG_FoggySnow><RG_Overcast>6</RG_Overcast><RG_Windy>8</RG_Windy><RG_Monsoon>0.3</RG_Monsoon><RG_SandStorm>1</RG_SandStorm><RG_SandStormHard>0.5</RG_SandStormHard></baseWeatherCommonalities><wildPlants><Plant_Grass>16</Plant_Grass><Plant_PincushionCactus>1.5</Plant_PincushionCactus><Plant_SaguaroCactus>0.8</Plant_SaguaroCactus><Plant_TreeDrago>0.50</Plant_TreeDrago><Plant_Agave>0.05</Plant_Agave><Plant_Bush>0.50</Plant_Bush><Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">8</Plant_GrayGrass><Plant_PebbleCactus MayRequire="Ludeon.RimWorld.Biotech">1</Plant_PebbleCactus><VCE_PeachTree>0.01</VCE_PeachTree><VCE_Opuntia>0.01</VCE_Opuntia></wildPlants><wildAnimals><Donkey>0.15</Donkey><GuineaPig>0.01</GuineaPig><Iguana>1.2</Iguana><Dromedary>0.7</Dromedary><Boomalope>0.6</Boomalope><Ostrich>0.6</Ostrich><Emu>0.6</Emu><Gazelle>0.6</Gazelle><Cougar>0.07</Cougar><Fox_Fennec>0.07</Fox_Fennec><OE_Raptor>0.1</OE_Raptor><OE_Tionant_Blue>0.07</OE_Tionant_Blue><OE_Tionant_Green>0.07</OE_Tionant_Green><OE_Tionant_Red>0.07</OE_Tionant_Red><OE_Tionant_Yellow>0.07</OE_Tionant_Yellow><OE_Ogren>0.07</OE_Ogren><OE_Bruul_Acid>0.05</OE_Bruul_Acid><OE_Bruul_Cryo>0.05</OE_Bruul_Cryo><OE_Bruul_Fire>0.05</OE_Bruul_Fire><OE_Bruul_EMP>0.05</OE_Bruul_EMP></wildAnimals><pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech"><Iguana>1</Iguana><Megascarab>1</Megascarab></pollutionWildAnimals><allowedPackAnimals><li>Muffalo</li><li>Dromedary</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><forested>true</forested><uniqueHills>true</uniqueHills><forestDenseAbove>500</forestDenseAbove><forestSparseBelow>300</forestSparseBelow><mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow><impassableSemiSnowyBelow>25</impassableSemiSnowyBelow><mountainsSnowyBelow>-5</mountainsSnowyBelow><impassableSnowyBelow>0</impassableSnowyBelow><mountainsVerySnowyBelow>-12</mountainsVerySnowyBelow><impassableVerySnowyBelow>-5</impassableVerySnowyBelow><mountainsFullySnowyBelow>-21</mountainsFullySnowyBelow><impassableFullySnowyBelow>-21</impassableFullySnowyBelow><materialRandomRotation>false</materialRandomRotation><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>DrySand</sandReplacement><gravelReplacement>ParchedBarrenGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML RimWorld.BiomeDef defines the same field twice: modExtensions.
+
+Field contents: DrySandParchedBarrenGravel.
+
+Whole XML:
+
+<BiomeDef><defName>ExtremeDesert</defName><label>extreme desert</label><description>An extremely hot, dry area, devoid of almost all life. Searing heat and a near total lack of arable land make it very difficult to survive here.</description><workerClass>BiomeWorker_ExtremeDesert</workerClass><allowFarmingCamps>false</allowFarmingCamps><animalDensity>0.1</animalDensity><plantDensity>0.008</plantDensity><hasVirtualPlants>false</hasVirtualPlants><settlementSelectionWeight>0.42</settlementSelectionWeight><campSelectionWeight>0.1</campSelectionWeight><movementDifficulty>1</movementDifficulty><texture>World/Biomes/ExtremeDesert</texture><forageability>0</forageability><wildPlantsCareAboutLocalFertility>false</wildPlantsCareAboutLocalFertility><wildPlantRegrowDays>35</wildPlantRegrowDays><diseaseMtbDays>90</diseaseMtbDays><isExtremeBiome>true</isExtremeBiome><diseases><li><diseaseInc>Disease_Flu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_Plague</diseaseInc><commonality>80</commonality></li><li><diseaseInc>Disease_GutWorms</diseaseInc><commonality>40</commonality></li><li><diseaseInc>Disease_MuscleParasites</diseaseInc><commonality>40</commonality></li><li><diseaseInc>Disease_FibrousMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_SensoryMechanites</diseaseInc><commonality>30</commonality></li><li><diseaseInc>Disease_AnimalFlu</diseaseInc><commonality>100</commonality></li><li><diseaseInc>Disease_AnimalPlague</diseaseInc><commonality>80</commonality></li></diseases><terrainsByFertility><li><terrain>ParchedSand</terrain><min>-999</min><max>999</max></li></terrainsByFertility><terrainPatchMakers><li><perlinFrequency>0.008</perlinFrequency><thresholds><li><terrain>DrySand</terrain><min>0.25</min><max>0.55</max></li></thresholds></li><li><perlinFrequency>0.015</perlinFrequency><thresholds><li><terrain>ParchedLaterite</terrain><min>0.95</min><max>999</max></li></thresholds></li></terrainPatchMakers><baseWeatherCommonalities><Clear>18</Clear><Rain>1</Rain><DryThunderstorm>1</DryThunderstorm><RainyThunderstorm>1</RainyThunderstorm><SnowGentle>1.5</SnowGentle><SnowHard>1</SnowHard><RG_Drizzle>2</RG_Drizzle><RG_FoggySnow>2</RG_FoggySnow><RG_Overcast>6</RG_Overcast><RG_Windy>8</RG_Windy><RG_Monsoon>0.3</RG_Monsoon><RG_SandStorm>1</RG_SandStorm><RG_SandStormHard>0.5</RG_SandStormHard></baseWeatherCommonalities><wildPlants><Plant_Grass>6</Plant_Grass><Plant_GrayGrass MayRequire="Ludeon.RimWorld.Biotech">5</Plant_GrayGrass><Plant_SaguaroCactus>1</Plant_SaguaroCactus><Plant_Agave>0.25</Plant_Agave><Plant_PebbleCactus MayRequire="Ludeon.RimWorld.Biotech">1</Plant_PebbleCactus><Plant_OE_Coral_B>0.001</Plant_OE_Coral_B><Plant_PincushionCactus>1.2</Plant_PincushionCactus></wildPlants><wildAnimals><Donkey>0.20</Donkey><GuineaPig>0.002</GuineaPig><Iguana>1.5</Iguana><Dromedary>0.2</Dromedary><Fox_Fennec>0.1</Fox_Fennec><OE_Raptor>0.1</OE_Raptor><OE_Tionant_Blue>0.07</OE_Tionant_Blue><OE_Tionant_Green>0.07</OE_Tionant_Green><OE_Tionant_Red>0.07</OE_Tionant_Red><OE_Tionant_Yellow>0.07</OE_Tionant_Yellow><OE_Ogren>0.07</OE_Ogren><OE_Bruul_Acid>0.05</OE_Bruul_Acid><OE_Bruul_Cryo>0.05</OE_Bruul_Cryo><OE_Bruul_Fire>0.05</OE_Bruul_Fire><OE_Bruul_EMP>0.05</OE_Bruul_EMP><OE_Arachna_Red>0.1</OE_Arachna_Red></wildAnimals><pollutionWildAnimals MayRequire="Ludeon.RimWorld.Biotech"><Iguana>1</Iguana><Megascarab>1</Megascarab></pollutionWildAnimals><allowedPackAnimals><li>Muffalo</li><li>Dromedary</li><li>RK_KingHamster</li><li>Lilin</li><li>Mincho_Minmoong</li><li>Mincho_MinchoLatteIsHorse</li></allowedPackAnimals><modExtensions><li Class="BiomesKit.BiomesKitControls"><uniqueHills>true</uniqueHills><mountainsSemiSnowyBelow>10</mountainsSemiSnowyBelow><impassableSemiSnowyBelow>25</impassableSemiSnowyBelow><mountainsSnowyBelow>-5</mountainsSnowyBelow><impassableSnowyBelow>0</impassableSnowyBelow><mountainsVerySnowyBelow>-12</mountainsVerySnowyBelow><impassableVerySnowyBelow>-5</impassableVerySnowyBelow><mountainsFullySnowyBelow>-21</mountainsFullySnowyBelow><impassableFullySnowyBelow>-21</impassableFullySnowyBelow><materialRandomRotation>false</materialRandomRotation><smallHillSizeMultiplier>1.5</smallHillSizeMultiplier><largeHillSizeMultiplier>2</largeHillSizeMultiplier><mountainSizeMultiplier>1.4</mountainSizeMultiplier><impassableSizeMultiplier>1.3</impassableSizeMultiplier></li></modExtensions><modExtensions><li Class="TerraCore.ModExt_Biome_Replacement"><sandReplacement>DrySand</sandReplacement><gravelReplacement>ParchedBarrenGravel</gravelReplacement></li></modExtensions></BiomeDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 2.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 8.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.4 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.4 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.4 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.4 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 1.4 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 2.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 2.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <femaleFertilityAgeFactor><points><li>(1, 0)</li><li>(2, 1)</li><li>(3, 0)</li></points></femaleFertilityAgeFactor> doesn't correspond to any field in type GeneralSettings. Context: <generalSettings><maleGenderProbability>0.5</maleGenderProbability><femaleFertilityAgeFactor><points><li>(1, 0)</li><li>(2, 1)</li><li>(3, 0)</li></points></femaleFertilityAgeFactor><maleFertilityAgeFactor><points><li>(1, 0)</li><li>(2, 1)</li><li>(3, 0)</li></points></maleFertilityAgeFactor><growthAges><li>7</li><li>10</li><li>13</li></growthAges><minAgeForAdulthood>1</minAgeForAdulthood><maxDamageForSocialfight>1</maxDamageForSocialfight><chemicalSettings><li><chemical>Psychite</chemical><reactions><li Class="IngestionOutcomeDoer_OffsetNeed"><need>Food</need><offset>0.3</offset><toleranceChemical>Psychite</toleranceChemical></li></reactions></li><li><chemical>Alcohol</chemical><ingestible>false</ingestible></li><li><chemical>Ambrosia</chemical><ingestible>false</ingestible></li><li><chemical>GoJuice</chemical><ingestible>false</ingestible></li><li><chemical>Luciferium</chemical><ingestible>false</ingestible></li><li><chemical>Smokeleaf</chemical><ingestible>false</ingestible></li><li><chemical>WakeUp</chemical><ingestible>false</ingestible></li></chemicalSettings><forcedRaceTraitEntries><li><defName>Kind</defName><chance>50</chance></li><li><defName>NightOwl</defName><chance>15</chance></li></forcedRaceTraitEntries><disallowedTraits><li><defName>NaturalMood</defName><degree>-1</degree><chance>50</chance></li><li><defName>Nerves</defName><degree>-1</degree><chance>50</chance></li><li><defName>Neurotic</defName><degree>2</degree><chance>50</chance></li><li><defName>Beauty</defName><degree>-2</degree><chance>30</chance></li><li><defName>Beauty</defName><degree>-1</degree><chance>10</chance></li><li><defName>Nudist</defName></li><li><defName>Transhumanist</defName></li><li><defName>BodyPurist</defName></li><li><defName>Pyromaniac</defName></li><li><defName>Psychopath</defName></li><li><defName>Masochist</defName></li><li><defName>AnnoyingVoice</defName></li><li><defName>CreepyBreathing</defName></li><li><defName>QuickSleeper</defName></li><li MayRequire="Ludeon.RimWorld.Biotech"><defName>Recluse</defName></li><li><defName>NaturalMood</defName><degree>-2</degree></li><li><defName>Nerves</defName><degree>-2</degree></li><li><defName>PsychicSensitivity</defName><degree>2</degree></li><li><defName>PsychicSensitivity</defName><degree>1</degree></li><li><defName>PsychicSensitivity</defName><degree>-1</degree></li><li><defName>PsychicSensitivity</defName><degree>-2</degree></li><li><defName>DrugDesire</defName><degree>2</degree></li><li><defName>DrugDesire</defName><degree>1</degree></li><li><defName>DrugDesire</defName><degree>-1</degree></li><li><defName>Immunity</defName><degree>1</degree></li><li><defName>Immunity</defName><degree>-1</degree></li><li><defName>Xenophobia</defName><degree>1</degree></li></disallowedTraits><traitCount>2~3</traitCount><additionalTraits>0~1</additionalTraits><alienPartGenerator><headOffset>(0.0, -0.1)</headOffset><headTypes Inherit="False"><li>Male_AverageNormal</li><li>Female_AverageNormal</li></headTypes><bodyTypes><li>Thin</li></bodyTypes><colorChannels><li><name>skin</name><first Class="ColorGenerator_Options"><options><li><weight>10</weight><min>RGBA(0.8, 0.8, 0.8, 1.0)</min><max>RGBA(1.0, 1.0, 1.0, 1.0)</max></li><li><weight>5</weight><min>RGBA(0.0, 0.0, 0.0, 1.0)</min><max>RGBA(0.5, 0.5, 0.5, 1.0)</max></li></options></first><second Class="ColorGenerator_Options"><options><li><weight>10</weight><min>RGBA(1.0, 0.0, 0.0, 1.0)</min><max>RGBA(1.0, 1.0, 1.0, 1.0)</max></li></options></second></li><li><name>hair</name><first Class="ColorGenerator_Options"><options><li><weight>10</weight><min>RGBA(0.5, 0.5, 0.5, 1.0)</min><max>RGBA(1.0, 1.0, 1.0, 1.0)</max></li><li><weight>5</weight><min>RGBA(0.0, 0.0, 0.0, 1.0)</min><max>RGBA(0.8, 0.8, 0.8, 1.0)</max></li></options></first><second Class="ColorGenerator_Options"><options><li><weight>10</weight><min>RGBA(1.0, 0.0, 0.0, 1.0)</min><max>RGBA(1.0, 1.0, 1.0, 1.0)</max></li></options></second></li></colorChannels><customDrawSize>(0.7, 0.7)</customDrawSize><customPortraitDrawSize>(0.7, 0.7)</customPortraitDrawSize><headBodyPartDef>Doll_head</headBodyPartDef><getsGreyAt>5000000</getsGreyAt></alienPartGenerator><allowHumanBios>false</allowHumanBios><humanRecipeImport>false</humanRecipeImport></generalSettings> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: <maleFertilityAgeFactor><points><li>(1, 0)</li><li>(2, 1)</li><li>(3, 0)</li></points></maleFertilityAgeFactor> doesn't correspond to any field in type GeneralSettings. Context: <generalSettings><maleGenderProbability>0.5</maleGenderProbability><femaleFertilityAgeFactor><points><li>(1, 0)</li><li>(2, 1)</li><li>(3, 0)</li></points></femaleFertilityAgeFactor><maleFertilityAgeFactor><points><li>(1, 0)</li><li>(2, 1)</li><li>(3, 0)</li></points></maleFertilityAgeFactor><growthAges><li>7</li><li>10</li><li>13</li></growthAges><minAgeForAdulthood>1</minAgeForAdulthood><maxDamageForSocialfight>1</maxDamageForSocialfight><chemicalSettings><li><chemical>Psychite</chemical><reactions><li Class="IngestionOutcomeDoer_OffsetNeed"><need>Food</need><offset>0.3</offset><toleranceChemical>Psychite</toleranceChemical></li></reactions></li><li><chemical>Alcohol</chemical><ingestible>false</ingestible></li><li><chemical>Ambrosia</chemical><ingestible>false</ingestible></li><li><chemical>GoJuice</chemical><ingestible>false</ingestible></li><li><chemical>Luciferium</chemical><ingestible>false</ingestible></li><li><chemical>Smokeleaf</chemical><ingestible>false</ingestible></li><li><chemical>WakeUp</chemical><ingestible>false</ingestible></li></chemicalSettings><forcedRaceTraitEntries><li><defName>Kind</defName><chance>50</chance></li><li><defName>NightOwl</defName><chance>15</chance></li></forcedRaceTraitEntries><disallowedTraits><li><defName>NaturalMood</defName><degree>-1</degree><chance>50</chance></li><li><defName>Nerves</defName><degree>-1</degree><chance>50</chance></li><li><defName>Neurotic</defName><degree>2</degree><chance>50</chance></li><li><defName>Beauty</defName><degree>-2</degree><chance>30</chance></li><li><defName>Beauty</defName><degree>-1</degree><chance>10</chance></li><li><defName>Nudist</defName></li><li><defName>Transhumanist</defName></li><li><defName>BodyPurist</defName></li><li><defName>Pyromaniac</defName></li><li><defName>Psychopath</defName></li><li><defName>Masochist</defName></li><li><defName>AnnoyingVoice</defName></li><li><defName>CreepyBreathing</defName></li><li><defName>QuickSleeper</defName></li><li MayRequire="Ludeon.RimWorld.Biotech"><defName>Recluse</defName></li><li><defName>NaturalMood</defName><degree>-2</degree></li><li><defName>Nerves</defName><degree>-2</degree></li><li><defName>PsychicSensitivity</defName><degree>2</degree></li><li><defName>PsychicSensitivity</defName><degree>1</degree></li><li><defName>PsychicSensitivity</defName><degree>-1</degree></li><li><defName>PsychicSensitivity</defName><degree>-2</degree></li><li><defName>DrugDesire</defName><degree>2</degree></li><li><defName>DrugDesire</defName><degree>1</degree></li><li><defName>DrugDesire</defName><degree>-1</degree></li><li><defName>Immunity</defName><degree>1</degree></li><li><defName>Immunity</defName><degree>-1</degree></li><li><defName>Xenophobia</defName><degree>1</degree></li></disallowedTraits><traitCount>2~3</traitCount><additionalTraits>0~1</additionalTraits><alienPartGenerator><headOffset>(0.0, -0.1)</headOffset><headTypes Inherit="False"><li>Male_AverageNormal</li><li>Female_AverageNormal</li></headTypes><bodyTypes><li>Thin</li></bodyTypes><colorChannels><li><name>skin</name><first Class="ColorGenerator_Options"><options><li><weight>10</weight><min>RGBA(0.8, 0.8, 0.8, 1.0)</min><max>RGBA(1.0, 1.0, 1.0, 1.0)</max></li><li><weight>5</weight><min>RGBA(0.0, 0.0, 0.0, 1.0)</min><max>RGBA(0.5, 0.5, 0.5, 1.0)</max></li></options></first><second Class="ColorGenerator_Options"><options><li><weight>10</weight><min>RGBA(1.0, 0.0, 0.0, 1.0)</min><max>RGBA(1.0, 1.0, 1.0, 1.0)</max></li></options></second></li><li><name>hair</name><first Class="ColorGenerator_Options"><options><li><weight>10</weight><min>RGBA(0.5, 0.5, 0.5, 1.0)</min><max>RGBA(1.0, 1.0, 1.0, 1.0)</max></li><li><weight>5</weight><min>RGBA(0.0, 0.0, 0.0, 1.0)</min><max>RGBA(0.8, 0.8, 0.8, 1.0)</max></li></options></first><second Class="ColorGenerator_Options"><options><li><weight>10</weight><min>RGBA(1.0, 0.0, 0.0, 1.0)</min><max>RGBA(1.0, 1.0, 1.0, 1.0)</max></li></options></second></li></colorChannels><customDrawSize>(0.7, 0.7)</customDrawSize><customPortraitDrawSize>(0.7, 0.7)</customPortraitDrawSize><headBodyPartDef>Doll_head</headBodyPartDef><getsGreyAt>5000000</getsGreyAt></alienPartGenerator><allowHumanBios>false</allowHumanBios><humanRecipeImport>false</humanRecipeImport></generalSettings> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type DamageDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type MaruTrapArbitrarySetting.MaruTrapDamageDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type RulePackDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) Debug info: DirectXmlToObject is currently instantiating an object of type MaruTrapArbitrarySetting.MaruTrapDamageDef 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 6.9 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 8.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 14.9 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 14.9 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 14.9 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 15.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 20.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 22.6 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 14.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named StandaloneHotSpring.JoyGiver_BathStandaloneHotSpring 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named StandaloneHotSpring.JobDriver_bathStandaloneHotSpring 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not find a type named StandaloneHotSpring.StandaloneHotSpringBath 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 21.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ParseAndProcessXML_Profiler</color> took <color=red>35.805</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+GAGARIN: <color=white>ClearCachedPatches_Profiler</color> took <color=red>0</color> seconds 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named MR_PulseT found to give to Verse.SkyfallerProperties Verse.SkyfallerProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Pawn_Dog_Wounded found to give to Verse.LifeStageAge Verse.LifeStageAge (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.BodyPartDef named Genitals found to give to COF_Torture.Body.VirtualPartTreeDef GenitalsMale 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.ResearchTabDef named RK_Tech_ExtensionFramework_Tab found to give to Verse.ResearchProjectDef RK_Tech_RatkinBasicMechanoidDesignDSeries 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.ResearchProjectDef named RK_Tech_RatkinImprovedGunDesign (wanter=prerequisites) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.GeneDef named AnotherUnwantedGene (wanter=blackGeneList) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.HediffDef named Miho_Skill_I_Repair_Hediff (wanter=forcedHediffs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.HediffDef named Miho_Skill_II_Accuracy_Hediff (wanter=forcedHediffs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.HediffDef named Miho_Skill_II_Armor_Hediff (wanter=forcedHediffs) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.HediffDef named Miho_Skill_I_StunTalisman_Hediff found to give to Verse.HediffGiver_Random Verse.HediffGiver_Random 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.HediffDef named Miho_Skill_I_Hawk_Hediff found to give to Verse.HediffGiver_Random Verse.HediffGiver_Random 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.HediffDef named Miho_Skill_I_Love_Hediff found to give to Verse.HediffGiver_Random Verse.HediffGiver_Random 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.HediffDef named Miho_Skill_I_StunTalisman_Hediff found to give to Verse.HediffGiver_Random Verse.HediffGiver_Random 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.HediffDef named Miho_Skill_I_Fox_Hediff found to give to Verse.HediffGiver_Random Verse.HediffGiver_Random 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.HediffDef named Miho_Skill_I_StunTalisman_Hediff found to give to Verse.HediffGiver_Random Verse.HediffGiver_Random 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.HediffDef named Miho_Skill_I_Powerstrike_Hediff found to give to Verse.HediffGiver_Random Verse.HediffGiver_Random 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.HediffDef named Miho_Skill_I_Repair_Hediff found to give to Verse.HediffGiver_Random Verse.HediffGiver_Random 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.BodyPartDef named Chest found to give to COF_Torture.Body.VirtualPartTreeDef Chest 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.BodyPartDef named Genitals found to give to COF_Torture.Body.VirtualPartTreeDef GenitalsFemale 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference to Verse.BodyPartGroupDef named GenitalsBPG (wanter=groups) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find Verse.DamageDef named Execute_Licentious. There are 329 defs of this type loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find Verse.HediffDef named COF_Torture_Orgasm. There are 1786 defs of this type loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find Verse.HediffDef named COF_Torture_SexualHeatWithPain. There are 1786 defs of this type loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find Verse.HediffDef named COF_Torture_OrgasmIndicator. There are 1786 defs of this type loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find Verse.HediffDef named COF_Torture_Licentious. There are 1786 defs of this type loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Failed to find Verse.ThingDef named RK_Cheese. There are 15734 defs of this type loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key GUC_Animal_Handling. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key BM_Mounting. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key BM_Enemy_Mounting. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key RimWriter_PaperMaking. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key RimWriter_BookBurning. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key Jecrell_TypewriterTable. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key NakiPylonConcept. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key ReviaBloodstoneSacrifice. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key Concept_SimpleSidearmsBasic. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key Concept_SidearmsDropping. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key Concept_SidearmsMissing. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key Concept_SimpleSidearmsPreference. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key Concept_SimpleSidearmsAdvancedRanged. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key Concept_SimpleSidearmsAdvancedMelee. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key Concept_SimpleSidearmsAdvancedDrafted. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key Concept_SimpleSidearmsLosingWeapons. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key Concept_CEOverride. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key ROM_SanityLossConcept. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key DW_Penalties. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Knowledge data was missing key DW_Settings. Adding it... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Legs_Shorts_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Legs_Pants_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Legs_Skirt_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Legs_Long_Skirt_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Middle_Scarf_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_OnSkin_Shirt_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_OnSkin_T_Shirt_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Overhead_Winter_Hat_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Overhead_Summer_Hat_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Overhead_Cap_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Shell_Cardigan_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Shell_Duster_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Shell_Winter_Padding_Child
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Legs_Shorts
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Legs_Pants
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Legs_Skirt
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Legs_Long_Skirt
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Middle_Scarf
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_OnSkin_Shirt
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_OnSkin_T_Shirt
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Overhead_Winter_Hat
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Overhead_Summer_Hat
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Overhead_Cap
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Shell_Cardigan
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Shell_Duster
+[KurinDeluxeEdition] Removed duplicate CompProperties_CompKurinApparel from Kurin_Shell_Winter_Padding
+d3d11: failed to create 2D texture id=14262 width=25 height=31 mips=6 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=14262 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=14308 width=62 height=50 mips=7 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=14308 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=28110 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=28110 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
+d3d11: failed to create 2D texture id=28290 width=2 height=2 mips=3 dxgifmt=28 [D3D error was 80070057]
+ 
+(Filename:  Line: 587)
+
+d3d11: failed to create 2D texture shader resource view id=28290 [D3D error was 80070057]
+ 
+(Filename:  Line: 537)
+
